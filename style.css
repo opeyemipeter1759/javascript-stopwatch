@@ -1,0 +1,32 @@
+
+
+
+#stopwatch {
+  background: rgb(78, 58, 58);
+  border: 1px solid rgb(88, 88, 88);
+  padding: 20px;
+  border-radius: 50px;
+  max-width: 500px;
+  margin-left: 90px;
+}
+#stpw-time {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+#stpw-reset,
+#stpw-start,
+#stpw-lap {
+  width: 7rem;
+  box-sizing: padding-box;
+  padding: 10px;
+  display: inline-block;
+  background: #3d2828;
+  border: 0;
+  color: #fff;
+  border-radius: 15px;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 20px;
+
+}
